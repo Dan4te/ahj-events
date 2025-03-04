@@ -1,14 +1,14 @@
 # Домашнее задание к занятию "3.Обработка событий"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/m35aohu6l3foc9k2?svg=true)](https://ci.appveyor.com/project/Dan4te/ahj-events-e4nh6)    [GitHub Pages](https://dan4te.github.io/ahj-2dom/)
+[![Build status](https://ci.appveyor.com/api/projects/status/m35aohu6l3foc9k2?svg=true)](https://ci.appveyor.com/project/Dan4te/ahj-events-e4nh6)    [GitHub Pages](https://dan4te.github.io/ahj-events/)
 
 
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать менеджер пакетов yarn (а значит, никакого `package-lock.json` в репозитории быть не должно)
-1. **Важно**: всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
-1. В README.md должен быть размещён бейджик сборки и ссылка на Github Pages
-1. В качестве результата присылайте проверяющему ссылки на ваши GitHub-проекты
+2. **Важно**: всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
+3. В README.md должен быть размещён бейджик сборки и ссылка на Github Pages
+4. В качестве результата присылайте проверяющему ссылки на ваши GitHub-проекты
 
 ---
 
