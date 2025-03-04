@@ -3,6 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/m35aohu6l3foc9k2?svg=true)](https://ci.appveyor.com/project/Dan4te/ahj-events-e4nh6)    [GitHub Pages](https://dan4te.github.io/ahj-events/)
 
 
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать менеджер пакетов yarn (а значит, никакого `package-lock.json` в репозитории быть не должно)
