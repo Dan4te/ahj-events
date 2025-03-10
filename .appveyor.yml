@@ -21,7 +21,7 @@ test_script:
   - yarn lint && yarn test  # скрипт тестирования
 
 deploy_script:  # скрипт развёртывания
-  - git config --global credential.helper store
+  - git config --global credential.helper store ~/.git-credentials
   - git config --global user.name AppVeyor
   - git config --global user.email ci@appveyor.com
   - git remote set-url origin https://$GITHUB_TOKEN@github.com/Dan4te/ahj-events.git
